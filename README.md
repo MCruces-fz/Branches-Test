@@ -8,3 +8,7 @@ Create a new branch called _feature/add-some-lines_. Once it is done, commit all
 ## Second step
 
 Here there is another [interesting file](./interesting_file.md)
+
+## Last step
+
+Here is the [last file](./last_file.md)
